@@ -1,6 +1,6 @@
 pkg_name=nodejs_demo
 pkg_origin=manny-rodriguez
-pkg_version="0.4.6"
+pkg_version="0.4.7"
 pkg_scaffolding="core/scaffolding-node"
 
 
